@@ -1,7 +1,7 @@
 
 //Testing
 const Hello = () => {
-  console.log("Hello");
+  console.log("Hello, Jenkins!");
 }
 
 Hello();
